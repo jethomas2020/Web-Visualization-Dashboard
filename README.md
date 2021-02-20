@@ -3,7 +3,7 @@
 # City Latitude Dashboard
 
 -----------------
-Background 
+# Background 
 
 -----------------
 Data is more powerful when we share it with others! Let's take HTML and CSS to create a dashboard showing off the analysis we've done! 
@@ -18,7 +18,7 @@ These pages will contain the visualizations and their corresponding explanations
 We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ----------------------------
-Website Features
+# Website Features
 
 The website consists of 7 pages total, including:
 
@@ -55,6 +55,7 @@ The website, at the top of every page, has a navigation menu that:
         "Data," which links to the data page.
 
 -------
-Site published at: https://jethomas2020.github.io/Web-Visualization-Dashboard/
+# Site published at: 
+https://jethomas2020.github.io/Web-Visualization-Dashboard/
 
 
