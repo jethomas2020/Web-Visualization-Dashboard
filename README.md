@@ -26,8 +26,8 @@ The website consists of 7 pages total, including:
 
     - A landing page containing:
         An explanation of the project.
-        Links to each visualizations page. There is a sidebar containing preview images of each plot, and clicking an 
-        image should takes the user to that visualization.
+        Links to each visualizations page. There is a sidebar containing preview images 
+            of each plot, and clicking an image should takes the user to that visualization.
         
     - Four visualization pages, each with:
         A descriptive title and heading tag.
@@ -42,8 +42,8 @@ The website consists of 7 pages total, including:
         Displays a responsive table containing the data used in the visualizations.
             The table is a bootstrap table component.
             The data comes from exporting the .csv file as HTML, and converting it to HTML. 
-            We used Pandas that also has a nifty method approprately called to_html that allows us to generate 
-                a HTML table from a Pandas dataframe.
+            We used Pandas that also has a nifty method approprately called to_html that allows us 
+                to generate a HTML table from a Pandas dataframe.
                 
 Finally, the website has been deployed to GitHub pages.  https://jethomas2020.github.io/Web-Visualization-Dashboard/
 
