@@ -41,6 +41,8 @@ The website consists of 7 pages total, including:
             The data comes from exporting the .csv file as HTML, and converting it to HTML. 
             We used Pandas that also has a nifty method approprately called to_html that allows us to generate 
                 a HTML table from a Pandas dataframe.
+                
+Finally, the website has been deployed to GitHub pages.  https://jethomas2020.github.io/Web-Visualization-Dashboard/
 
 The website, at the top of every page, has a navigation menu that:
 
