@@ -1,5 +1,6 @@
 # Web-Visualization-Dashboard
-City Latitude Dashboard
+
+# City Latitude Dashboard
 
 -----------------
 Background 
